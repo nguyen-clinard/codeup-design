@@ -1,8 +1,20 @@
 .topbar {
     background-color: #f0f0f0;
-    height:40px;
+    height:100px;
 }
-
+.midbar {
+    background-color:white;
+    height:60px;
+}
 .contentbar {
     background-color: #f0f0f0;
+}
+
+.logo {
+    height: 105px;
+    width: 105px;
+    position: absolute;
+    top: -20px;
+    right: 98px;
+    z-index: 1000;
 }
