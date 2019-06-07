@@ -9,12 +9,17 @@
 .contentbar {
     background-color: #f0f0f0;
 }
-
 .logo {
     height: 105px;
     width: 105px;
-    position: absolute;
-    top: -20px;
-    right: 98px;
     z-index: 1000;
+    position: relative;
+    margin-top: -20px;
+}
+.row {
+    background: #f0f0f0;
+    color: black;
+}
+.nav-link {
+    color: black;
 }
