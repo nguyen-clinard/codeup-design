@@ -23,3 +23,35 @@
 .nav-link {
     color: black;
 }
+.badge-secondary {
+    height: 300px;
+    width: 300px;
+    border:20px solid white;
+    margin-left: 10px;
+    font-size:48px;
+}
+
+.badge-design {
+    background: #E6563B;
+}
+
+.badge-develop {
+    background: #EB9D3A;
+}
+
+.badge-support {
+    background:#7cb06c;
+}
+.badge-host {
+    background:#00aba9;
+}
+
+.apple-ipad {
+    border: 15px solid #e6e6e6;
+    border-radius: 10px;
+}
+.badge-small {
+    height: 18px;
+    width: 18px;
+    margin: 5px;
+}
