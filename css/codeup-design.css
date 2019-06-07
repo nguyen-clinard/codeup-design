@@ -8,6 +8,8 @@
 }
 .contentbar {
     background-color: #f0f0f0;
+    font-family: 'Abel', sans-serif;
+    font-size: 64px;
 }
 .logo {
     height: 105px;
@@ -22,13 +24,15 @@
 }
 .nav-link {
     color: black;
+    font-family: 'Abel', sans-serif;
+    font-size: 28px;
 }
 .badge-secondary {
-    height: 300px;
-    width: 300px;
-    border:20px solid white;
-    margin-left: 10px;
+    height: 225px;
+    width: 225px;
+    border:15px solid white;
     font-size:48px;
+    font-family: 'Anton', sans-serif;
 }
 
 .badge-design {
@@ -54,4 +58,25 @@
     height: 18px;
     width: 18px;
     margin: 5px;
+    font-family: 'Anton', sans-serif;
 }
+.work {
+    font-family: 'Abel', sans-serif;
+    font-size: 32px;
+}
+.featured {
+    font-family: 'Abel', sans-serif;
+    font-size: 32px;
+}
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 72px;
+}
+h2 {
+    font-family: 'Anton', sans-serif;
+}
+.park {
+    font-family: 'Anton', sans-serif;
+    font-size: 48px;
+}
+
