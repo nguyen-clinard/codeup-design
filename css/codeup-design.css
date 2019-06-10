@@ -106,3 +106,13 @@ h6 {
     top: -80px;
     left: 15px;
 }
+.tweet {
+    font-size: 12px;
+}
+.twitter {
+    width: 10%;
+    height: auto;
+}
+.third {
+    position: center;
+}
